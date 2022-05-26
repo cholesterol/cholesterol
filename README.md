@@ -19,5 +19,5 @@ In a past life...
  - 🌐 Network engineer
  - 🐧 Linux sysadmin
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cholesterol&count_private=true&show_icons=true&theme=dracula&hide=issues,prs,contribs,stars" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=cholesterol&theme=dracula" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=cholesterol&count_private=true&show_icons=true&theme=dracula&hide=issues,prs,contribs,stars" />
+<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=cholesterol&theme=dracula" />
