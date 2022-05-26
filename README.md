@@ -1,5 +1,6 @@
-<h2 align="left"> @cholesterol </h2>
-Hi 👋 - my name is Mason and I'm a Security Engineer at [@GitHub](https://github.com/github). 
+# @cholesterol
+
+Hi 👋 - my name is Mason and I'm a Security Engineer at [@GitHub](https://github.com/github)
 
 In a past life I was an SRE at [@Pivotal](https://github.com/pivotal) working on networking and infrastructure automation.
 
@@ -19,6 +20,6 @@ In a past life...
  - 🌐 Network engineer
  - 🐧 Linux sysadmin
 
-<h2 align="center"> Internet Points </h2>
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=cholesterol&count_private=true&show_icons=true&theme=dracula&hide=issues,prs,contribs,stars" />
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=cholesterol&theme=dracula" />
+# Internet Points
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=cholesterol&count_private=true&show_icons=true&theme=dracula&hide=issues,prs,contribs,stars" />
+<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=cholesterol&theme=dracula" />
