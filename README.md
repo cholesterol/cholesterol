@@ -1,8 +1,8 @@
 # @cholesterol
 
-Hi 👋 - my name is Mason and I'm a Security Engineer at Samsara
+Hi 👋 - my name is Mason and I'm a Senior Security Engineer II at Samsara
 
-I was formerly a Security Engineer at [@GitHub](https://github.com/github) and prior to that I was an SRE at [@Pivotal](https://github.com/pivotal)
+I was formerly a Senior Security Engineer at [@GitHub](https://github.com/github) and prior to that I was an SRE at [@Pivotal](https://github.com/pivotal)
 
 What I do now: 
   - :lock: I make Samsara more secure
