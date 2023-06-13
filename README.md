@@ -11,7 +11,7 @@ What I do now:
   - 🐼 I sift through security data with [pandas](https://github.com/pandas-dev/pandas)
 
 What I'm studying:
-  - 🐹 Golang
+  - 🐹 Go
   - 🧬 Data Science
   - ☁️ AWS Security
   
