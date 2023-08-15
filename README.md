@@ -12,7 +12,7 @@ What I do now:
 
 What I'm studying:
   - 🐹 Go
-  - 🧬 Data Science
+  - 🕸️ Django
   - ☁️ AWS Security
   
 In a past life...
