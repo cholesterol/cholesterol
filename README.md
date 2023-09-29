@@ -12,8 +12,6 @@ What I do now:
 
 What I'm studying:
   - 🐹 Go
-  - 🕸️ Django
-  - ☁️ AWS Security
   
 In a past life...
  - 🧑‍🍳 Chef Infra and 💎 Ruby
