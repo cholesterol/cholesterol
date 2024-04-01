@@ -1,8 +1,11 @@
 # @cholesterol
 
-Hi 👋 - my name is Mason and I work as a Security Engineer
+Hi 👋 - my name is Mason and I work as a Sr. Security Engineer II at [dbt Labs](https://github.com/dbt-labs)
 
-I was formerly a Senior Security Engineer at [@GitHub](https://github.com/github) and prior to that I was an SRE at [@Pivotal](https://github.com/pivotal)
+Former gigs:
+  - 🦉 Sr. Security Engineer II [@Samsara](https://github.com/samsara-dev)
+  - :octocat: Sr. Security Engineer [@GitHub](https://github.com/github)
+  - ☁️ SRE [@Pivotal](https://github.com/pivotal)
 
 What I do now: 
   - 🐍 I danger noodle
