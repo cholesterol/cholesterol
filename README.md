@@ -1,6 +1,6 @@
 # @cholesterol
 
-Hi 👋 - my name is Mason and I work as a Sr. Security Engineer II at [dbt Labs](https://github.com/dbt-labs)
+Hi 👋 - my name is Mason and I work as a Sr. Product Security Engineer II at [dbt Labs](https://github.com/dbt-labs)
 
 Former gigs:
   - 🦉 Sr. Security Engineer II [@Samsara](https://github.com/samsara-dev)
