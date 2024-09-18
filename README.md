@@ -7,23 +7,24 @@ Current gig:
 
 Former gigs:
   - 🦉 Sr. Security Engineer II [@Samsara](https://github.com/samsara-dev)
-  - :octocat: Sr. Security Engineer [@GitHub](https://github.com/github)
+  - :octocat: SRE -> Sr. Security Engineer [@GitHub](https://github.com/github)
   - ☁️ SRE [@Pivotal](https://github.com/pivotal)
 
 
 What I like doing: 
   - 🐍 I danger noodle
+  - 🧪 I write tests
+  - 🔐 I secure all the things, both app and cloud
   - 🐹 I dabble in Go
-  - 🔐 I secure all the things
   - 🤖 I automate all the things w/ tools like [terraform](https://github.com/hashicorp/terraform) and [ansible](https://github.com/ansible/ansible)
   - 🐼 I sift through security data with data analytics tools like [pandas](https://github.com/pandas-dev/pandas) and [matplotlib](https://github.com/matplotlib/matplotlib)
 
 
 What I'm studying:
+  - 🦀 Rust
   - 🐍 Design Patterns
-  - 🛳️ k8s, helm, argo
   
 In a past life...
- - 🧑‍🍳 Chef Infra and 💎 Ruby
- - 🌐 Network engineer
+ - 🧑‍🍳 Chef IaC, Chef InSpec, and 💎 Ruby
+ - 🌐 Palo Alto/Juniper/Cisco Network engineer
  - 🐧 Linux sysadmin
